@@ -31,6 +31,37 @@ Welcome to the **Cafe Interior Design Project** repository! This project present
 
 ## 🌆 Project Preview
 
+**File_1**
+
+https://autode.sk/4ej0jPI
+
+**File_2**
+
+https://autode.sk/3CdqkCx
+
+**File_3**
+
+https://autode.sk/3YByJal
+
+**File_4**
+
+https://autode.sk/3YszzX2
+
+**File_5**
+
+https://autode.sk/40tVtMf
+
+**File_6**
+
+https://autode.sk/40tVmAj
+
+**File_7**
+
+https://autode.sk/3YQcX4c
+
+**File_8**
+
+https://autode.sk/40yacpx
 
 
 ---
@@ -40,6 +71,10 @@ Welcome to the **Cafe Interior Design Project** repository! This project present
 1. Clone this repository.
 2. Open the project in **Autodesk 3ds Max**.
 3. For high-quality renders, enable **V-Ray** if available.
+
+   **OR**
+
+   **Download This File as Zip and Open in AutoDesk**
 
 ---
 
